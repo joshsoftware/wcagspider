@@ -1,0 +1,14 @@
+version: 2.0
+shards:
+  arachnid:
+    git: https://github.com/watzon/arachnid.git
+    version: 0.3.0+git.commit.b6d49b3c33c973719ba39fe981c0dc40475a1c92
+
+  myhtml:
+    git: https://github.com/kostya/myhtml.git
+    version: 1.5.2+git.commit.056be72c23b8b77908b90d7f2a368fb866a86c02
+
+  pool:
+    git: https://github.com/watzon/pool.git
+    version: 0.3.0+git.commit.fb593d94041753edb65524d90f05d818058890ff
+

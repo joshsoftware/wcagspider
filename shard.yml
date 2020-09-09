@@ -1,0 +1,18 @@
+name: wcagspider
+version: 0.1.0
+
+authors:
+  - Kirk Haines <kirk.haines@joshsoftware.com>
+
+targets:
+  wcagspider:
+    main: src/wcagspider.cr
+
+dependencies:
+  arachnid:
+    github: watzon/arachnid
+    branch: master
+
+crystal: 0.35.1
+
+license: MIT
